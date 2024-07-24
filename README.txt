@@ -1,1 +1,1 @@
-To get code on surveyJs, click on three dots, embed, then select jQuert on the right.
+The plan for this repository is to create a Custom Frontend Library with examples, design patterns, and smart UI components.
