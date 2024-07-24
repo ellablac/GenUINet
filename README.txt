@@ -1,0 +1,1 @@
+To get code on surveyJs, click on three dots, embed, then select jQuert on the right.
